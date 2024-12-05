@@ -87,9 +87,11 @@ jobs:
 **Deployed URL Format:**  
 `https://<your-username>.github.io/<repository-name>/`
 
----
+
 
 Congratulations! Your static website is now live and integrated with a CI/CD pipeline. 🚀
+
+---
 
 ### Step 8: Update Your Website
 1. Make changes to your website files in the repository.
